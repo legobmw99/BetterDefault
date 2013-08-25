@@ -16,6 +16,7 @@ Thanks to:
 * [Plastix](https://oc.tc/Plastix): Inspiration, help, and many textures from [Plast-Pack](http://plastix.github.io/Plast-Pack/)
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Custom Paintings
 * [McSpider](https://oc.tc/McSpider): Inspriation for some item sprites
+* [Three_two](https://oc.tc/three_two): Some particle textures taken from [Gravel Pack](https://oc.tc/forums/topics/52111bcfaf7fb0389f006b13)
 * rabbitfish13: Betterskies textures
 
 Licensing:
