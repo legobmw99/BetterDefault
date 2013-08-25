@@ -1,9 +1,14 @@
-
 Better Default
-
-------
-
+==========
 >A [Minecraft](http://minecraft.net) resource pack by legobmw99, based on Default.
+
+Features:
+------
+* Clear GUI
+* Modified tool and weapon sprites (W.I.P)
+* Several different tweaks to block textures
+* CTM and Betterskies support (optifine/mcpatcher only)
+* Support for NEI and the Twitch TV IRC Mod Reborn (Textures to match rest of pack)
 
 Thanks to:
 ------
@@ -16,7 +21,6 @@ Thanks to:
 Licensing:
 
 ------
-
 BetterDefault is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/) license.
 
 ![license](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
