@@ -1,0 +1,15 @@
+ {
+  "mob.irongolem.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/irongolem/death"
+    ]
+  },
+    "random.successful_hit": {
+    "category": "player",
+    "sounds": [
+      "random/successful_hit"
+    ]
+  },
+ }
+ 
