@@ -15,7 +15,7 @@
         },
         {   "type": "cube",
             "from": [ 0, 9, 8 ],
-            "to": [ 16, 10, 16 ],
+            "to": [ 16, 9.5, 16 ],
             "faceData": {
                 "up": { "uv": [ 16, 0, 8, 16 ], "textureFacing": "up", "rotation": 270, "cull": false },
                 "north": { "uv": [ 8, 15, 16, 16 ], "textureFacing": "up" },
