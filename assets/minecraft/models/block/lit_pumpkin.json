@@ -1,9 +1,0 @@
- {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
-    "variants": {
-        "north": { "model": "pumpkin_litNorth"},
-        "east":  { "model": "pumpkin_litEast", "y": 90 },
-        "south": { "model": "pumpkin_litSouth", "y": 180 },
-        "west":  { "model": "pumpkin_litWest", "y": 270}
-    }
-}
