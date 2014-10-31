@@ -1,11 +1,11 @@
 {
-	"_comment": "Made by Agenerick using Notepad++",
+    "_comment": "Made by Agenerick using Notepad++",
     "textures": {
-        "body": "blocks/planks_oak",
-		"element": "blocks/log_oak",
-		"string": "items/crossbow_string",
-		"arrow": "items/arrow_side",
-		"arrowback": "items/arrow_back"
+        "body": "blocks/planks_bow",
+        "element": "blocks/log_bow",
+        "string": "items/crossbow_string",
+        "arrow": "items/arrow_side",
+        "arrowback": "items/arrow_back"
     },
 	"elements": [
 		{
