@@ -149,7 +149,7 @@ gameMode.spectator=§bSpectator Mode
 gameMode.hardcore=§cHardcore Mode!
 gameMode.changed=§aYour game mode has been updated
 
-selectWorld.gameMode=§bGame Mode:
+selectWorld.gameMode=§bGame Mode
 selectWorld.gameMode.survival=§aSurvival
 selectWorld.gameMode.survival.line1=Search for resources, crafting, gain
 selectWorld.gameMode.survival.line2=levels, health and hunger
@@ -179,7 +179,7 @@ selectWorld.bonusItems=§bBonus Chest:
 generator.default=§aDefault
 generator.flat=§eSuperflat
 generator.largeBiomes=§6Large Biomes
-generator.amplified=cAMPLIFIED
+generator.amplified=§cAMPLIFIED
 generator.customized=§6Customized
 generator.debug_all_block_states=§bDebug Mode
 
