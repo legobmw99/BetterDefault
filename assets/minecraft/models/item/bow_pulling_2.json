@@ -3,9 +3,9 @@
     "textures": {
         "body": "blocks/planks_bow",
         "element": "blocks/log_bow",
-        "string": "items/crossbow_string",
-        "arrow": "items/arrow_side",
-        "arrowback": "items/arrow_back"
+        "string": "items/cb/crossbow_string3",
+        "arrow": "items/cb/arrow_side",
+        "arrowback": "items/cb/arrow_back"
     },
 	"elements": [
 		{
