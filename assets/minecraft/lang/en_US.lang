@@ -1276,6 +1276,8 @@ effect.healthBoost=§aHealth Boost
 effect.absorption=§aAbsorption
 effect.saturation=§aSaturation
 effect.glowing=§cGlowing
+effect.luck=§aLuck
+effect.unluck=§cBad Luck
 effect.levitation=§eLevitation
 
 potion.potency.0=
