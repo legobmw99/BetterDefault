@@ -424,6 +424,7 @@ options.attackIndicator=§bAttack Indicator
 options.attack.crosshair=§aCrosshair
 options.attack.hotbar=§aHotbar
 options.showSubtitles=§bShow Subtitles
+options.realmsNotifications=§bRealms Notifications
 
 options.mipmapLevels=§bMipmap Levels
 options.forceUnicodeFont=§bForce Unicode Font
