@@ -19,7 +19,7 @@ Thanks to:
 * [Three_two](https://oc.tc/three_two): Some particle textures taken from [Gravel Pack](https://oc.tc/forums/topics/52111bcfaf7fb0389f006b13)
 * rabbitfish13: Betterskies textures
 * [Agenerick](https://www.reddit.com/user/Agenerick) for the original inspiration/code of the crossbow model
-* [TomScheeper](https://www.reddit.com/user/TomScheeper) for the original inspiration/style of font
+* [ScarredWarlord](https://www.reddit.com/user/ScarredWarlord) for the modified mossy cobble texture
 
 Licensing:
 
