@@ -306,6 +306,8 @@ soundCategory.neutral=§bFriendly Creatures
 soundCategory.player=§bPlayers
 soundCategory.block=§bBlocks
 soundCategory.ambient=§bAmbient/Environment
+soundCategory.voice=§bVoice/Speech
+
 
 record.nowPlaying=Now playing: %s
 
