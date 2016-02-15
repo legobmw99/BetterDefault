@@ -1115,7 +1115,10 @@ container.chestDouble=§eLarge Chest
 container.minecart=§eMinecart
 container.enderchest=§eEnder Chest
 container.beacon=§eBeacon
+container.minecart.hopper=§eHopper Minecart
+container.minecart.chest=§eChest Ninecart
 
+container.spectatorCantOpen=§cUnable to open. Loot not generated yet.
 container.isLocked=§c%s is locked!
 
 item.dyed=Dyed
