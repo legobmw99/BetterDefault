@@ -21,6 +21,7 @@ Thanks to:
 * [Agenerick](https://www.reddit.com/user/Agenerick) for the original inspiration/code of the crossbow model
 * [ScarredWarlord](https://www.reddit.com/user/ScarredWarlord) for the modified mossy cobble texture
 * [calvinnok](https://www.reddit.com/user/calvinnok) for the BetterBeets texture
+* zZzZOBRA for better Shield models
 
 Licensing:
 
