@@ -8,3 +8,6 @@
 -Lang file updates
 -Colored string on crossbow
 -Certain ores now outlined
+1.3: Updated to 1.10
+- Restored bow texture
+- New Red Nether Brick texture

@@ -5,7 +5,7 @@ Better Default
 Features:
 ------
 * Clear GUI
-* Modified tool and weapon sprites (W.I.P)
+* Modified tool and weapon sprites
 * Several different tweaks to block textures
 * CTM and Betterskies support (optifine/mcpatcher only)
 * Support for NEI (Textures to match rest of pack)
