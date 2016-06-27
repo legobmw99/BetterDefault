@@ -8,7 +8,7 @@ Features:
 * Modified tool and weapon sprites (W.I.P)
 * Several different tweaks to block textures
 * CTM and Betterskies support (optifine/mcpatcher only)
-* Support for NEI and the Twitch TV IRC Mod Reborn (Textures to match rest of pack)
+* Support for NEI (Textures to match rest of pack)
 
 Thanks to:
 ------
@@ -22,6 +22,7 @@ Thanks to:
 * [ScarredWarlord](https://www.reddit.com/user/ScarredWarlord) for the modified mossy cobble texture
 * [calvinnok](https://www.reddit.com/user/calvinnok) for the BetterBeets texture
 * zZzZOBRA for better Shield models
+* [SaddleCreeper](https://www.reddit.com/user/SaddleCreeper) for the smoother stone variants
 
 Licensing:
 
