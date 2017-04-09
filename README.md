@@ -6,9 +6,8 @@ Features:
 ------
 * Clear GUI
 * Modified tool and weapon sprites
-* Several different tweaks to block textures
+* Several different tweaks to block and item textures
 * CTM and Betterskies support (optifine/mcpatcher only)
-* Support for NEI (Textures to match rest of pack)
 
 Thanks to:
 ------
