@@ -21,6 +21,7 @@ Thanks to:
 * [ScarredWarlord](https://www.reddit.com/user/ScarredWarlord) for the modified mossy cobble texture
 * [calvinnok](https://www.reddit.com/user/calvinnok) for the BetterBeets texture
 * zZzZOBRA for better Shield models
+* [Xisumavoid](https://xisumavoid.com/vanillatweaks/) for several redstone-related textures
 
 Licensing:
 
