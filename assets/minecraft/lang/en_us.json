@@ -88,7 +88,7 @@
   "selectWorld.version": "§7Version:",
   "selectWorld.versionUnknown": "unknown",
   "selectWorld.versionQuestion": "§eDo you really want to load this world?",
-  "selectWorld.versionWarning": "§cThis world was saved in version '%s' and loading it in this version could cause corruption!",
+  "selectWorld.versionWarning": "§cThis world was last played in version %s; you are on version %s. Please make a backup in case you experience world corruptions!",
   "selectWorld.versionJoinButton": "§cLoad anyway",
   "selectWorld.backupQuestion": "§cDo you really want to load this world?",
   "selectWorld.backupWarning": "§cThis world was last played in version %s; you are on snapshot %s. Please make a backup in case you experience world corruptions!",
