@@ -15,7 +15,7 @@ Thanks to:
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Custom Paintings
 * Three_two: Some particle textures taken from Gravel Pack
 * zZzZOBRA for better Shield models
-* [Xisumavoid](https://xisumavoid.com/vanillatweaks/) for several redstone-related textures
+* [Xisumavoid](https://xisumavoid.com/vanillatweaks/) for several redstone-related textures and sound tweaks
 
 Licensing:
 
