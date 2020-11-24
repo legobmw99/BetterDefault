@@ -13,6 +13,7 @@ Thanks to:
 
 * Plastix: Inspiration, help, and many textures from [Plast-Pack](http://plastix.github.io/Plast-Pack/)
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Custom Paintings
+* [ICantThinkOfAUsername](http://www.reddit.com/user/N1knamed): Custom icons in enchantment names
 * Three_two: Some particle textures taken from Gravel Pack
 * zZzZOBRA for better Shield models
 * [Xisumavoid](https://xisumavoid.com/vanillatweaks/) for several redstone-related textures and sound tweaks
